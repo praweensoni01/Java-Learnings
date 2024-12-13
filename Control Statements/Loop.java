@@ -5,7 +5,6 @@ class Loop{
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-
         // For Loop (Table Print using for loop.)
         for(int count = 0; count < 10; count = count + 1){
             System.out.println(n + " * " + (count + 1) + " = " + (n*(count + 1)));
