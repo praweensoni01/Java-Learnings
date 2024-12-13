@@ -15,12 +15,23 @@ Share knowledge and receive feedback from the community.
 
 I will continue to add more programs every day as I explore various Java concepts, starting with:
 
-- Variables and Data Types
-- Control Statements
-- Functions and Methods
+- Arrays and 2D Arrays
 
 ## 🛠️ Topic Covered
-- Variables
+- Basics
+    - DataTypes
+  <!-- - Variable Declaration and Initialization -->
+- Control Statements
+    - Loops
+    - if else
+    - Switch Case
+- OOPs
+    - Functions
+- Patterns
+    - Simple Patterns
+- Simple Questions
+    - Area Of Circle
+    - Swap Number without using 3rd Variable
 
 ## 🤝 Contributions
 Suggestions, corrections, and feedback are welcome! Feel free to create an issue or submit a pull request.
