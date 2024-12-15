@@ -16,6 +16,7 @@ Share knowledge and receive feedback from the community.
 I will continue to add more programs every day as I explore various Java concepts, starting with:
 
 - Arrays and 2D Arrays
+- Class and Objects
 
 ## 🛠️ Topic Covered
 - Basics
