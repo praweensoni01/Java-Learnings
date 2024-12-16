@@ -21,7 +21,7 @@ I will continue to add more programs every day as I explore various Java concept
 ## 🛠️ Topic Covered
 - Basics
     - DataTypes
-  <!-- - Variable Declaration and Initialization -->
+    - Variable
 - Control Statements
     - Loops
     - if else
