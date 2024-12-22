@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Exercise1{
+class Exercise{
     static void GreaterTwoNum(){
         System.out.println("Enter two num. this function find greater of those two.");
         Scanner sc = new Scanner(System.in);
@@ -51,11 +51,24 @@ class Exercise1{
         System.out.println("num 2 value is :" + num2);
     }
 
+    static void circumference(){
+        System.out.println("Enter a radius (number) to Find Circumference : ");
+        Scanner sc = new Scanner(System.in);
+        double radius = sc.nextInt();
+
+        // double cf=2*(22/7)*radius;   // Mistake : When i write 22 / 7, Java performs integer division because both 22 and 7 are integers. This results in 3 (the integer part of 22/7) instead of 3.142857.
+        // double cf=2*(22.0/7)*radius;   // Mistake : fixed in this line but it also lesser accurate comapre then both
+        // double cf=2*3.14*radius;    // less accurate comapre then math.pi
+        double cf = 2 * Math.PI * radius; // More accurate
+
+        System.out.println("Circumference of "+radius+" is  : " + cf);
+    }
+
     public static void main(String [] args){
         // addOddNum();
         // NumAvg();
         //GreaterTwoNum();
-        // Circumference=2×π×radius
-        numSwap();
+        // numSwap();
+        circumference();
     }
 }
