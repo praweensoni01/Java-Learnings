@@ -19,5 +19,6 @@ class Factorial{
         }else{
             System.out.println("Factorial of " + num + " is " + findFactorial(num));
         }
+        sc.close();
     }
 }

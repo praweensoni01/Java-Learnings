@@ -13,6 +13,7 @@ class Exercise{
         }else{
             System.out.println("Both Number are Equal : " + num1 + " , " + num2);
         }
+        sc.close();
     }
     
     static void addOddNum(){
@@ -26,6 +27,7 @@ class Exercise{
             }
         }
         System.out.println("Sum of All Odd numbers :" + sumNum);
+        sc.close();
     }
 
     static void NumAvg(){
@@ -35,6 +37,7 @@ class Exercise{
         int num2 = sc.nextInt();
         int num3 = sc.nextInt();
         System.out.println("Average of these 3 numbers are : " + (num1 + num2 + num3)/3);
+        sc.close();
     }
     
     static void numSwap(){
@@ -49,6 +52,7 @@ class Exercise{
 
         System.out.println("num 1 value is :" + num1);
         System.out.println("num 2 value is :" + num2);
+        sc.close();
     }
 
     static void circumference(){
@@ -62,6 +66,7 @@ class Exercise{
         double cf = 2 * Math.PI * radius; // More accurate
 
         System.out.println("Circumference of "+radius+" is  : " + cf);
+        sc.close();
     }
 
     public static void main(String [] args){

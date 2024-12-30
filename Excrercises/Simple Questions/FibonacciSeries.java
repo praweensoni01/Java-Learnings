@@ -8,7 +8,7 @@ class FibonacciSeries{
 
         System.out.println("Enter a number of terms :");
         n = sc.nextInt();
-        
+        sc.close();
         System.out.println("First terms of the fibonacci series :" + n);
         for(i = 0; i<n; i++){
             if(i<=1){
