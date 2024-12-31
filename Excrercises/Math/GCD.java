@@ -22,5 +22,6 @@ public class GCD {
         // Calculate and print using GCD function
         int result = gcd(num1, num2);
         System.out.println("GCD of " + num1 + " and " + num2 + " is: " + result);
+        scanner.close();
     }
 }

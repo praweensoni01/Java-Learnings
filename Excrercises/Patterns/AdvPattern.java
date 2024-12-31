@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class AdvPattern{
     static void butterflyptrn(){
         int n = 5;

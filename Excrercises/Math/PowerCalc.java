@@ -19,5 +19,6 @@ class PowerCalc {
         double result = power(z, n);
 
         System.out.println(z + " raised to the power of " + n + " is : " + result);
+        scanner.close();
     }
 }
