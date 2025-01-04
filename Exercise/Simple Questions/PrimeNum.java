@@ -1,3 +1,5 @@
+// WAP to enter a two number and find prime number between them.
+
 import java.util.Scanner;
 
 public class PrimeNum {

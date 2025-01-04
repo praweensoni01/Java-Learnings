@@ -1,3 +1,5 @@
+// WAP to find GCD (Greatest Common Divisor) of two given number.
+
 import java.util.Scanner;
 
 public class GCD {

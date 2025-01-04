@@ -19,21 +19,45 @@ I will continue to add more programs every day as I explore various Java concept
 
 ## 🛠️ Topic Covered
 - Basics
+    - Hello World
     - DataTypes
     - Variable
+    - Strings
+
 - Control Statements
     - Loops
-    - if else
+    - if else & if else if
     - Switch Case
+    - Program for understanding Switch case and if else
 - Patterns
     - Simple Patterns
 - Collections
-    - Array & 2D Array
+    - Array
+    - 2D Array
 - OOPs
     - Functions
-- Simple Questions
-    - Area Of Circle
-    - Swap Number without using 3rd Variable
+    - String Builder
+- Exercise
+    - Math
+        - Area of Circle
+        - Number Power calculation
+        - Swap number without using 3rd variable
+        - GCD (Greatest Common Divisor)
+    - Patterns
+        - Simple Patterns
+        - Advance Patterns
+    - Simple Questions
+        - Data Type Size 
+        - Find JAVA DataType size using program
+        - Leap Year
+        - Decimal number to binary number.
+        - Factorial
+        - Fibonacci Series
+        - Greatest of three number
+        - Positive, Negative & Zero number counter 
+        - Finding Prime number between two number
+        - Find Average & addition of all number
+        - Reverse String using String Builder
 
 ## 🤝 Contributions
 Suggestions, corrections, and feedback are welcome! Feel free to create an issue or submit a pull request.

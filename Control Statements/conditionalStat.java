@@ -20,6 +20,7 @@ class conditionalStat{
         Scanner val = new Scanner(System.in);
         int a = val.nextInt();
         int b = val.nextInt();
+        val.close();
         if(a==b){
             System.out.println("Your input number is Equal :" + a +" == "+ b);
         }else if(a>b){

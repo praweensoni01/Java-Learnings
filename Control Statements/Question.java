@@ -28,5 +28,6 @@ class Question{
         }
         while(choice!=0);
         System.out.println("Program stopped.");
+        sc.close();
     }
 }
