@@ -58,6 +58,7 @@ I will continue to add more programs every day as I explore various Java concept
         - Finding Prime number between two number
         - Find Average & addition of all number
         - Reverse String using String Builder
+        - Armstrong Number
 
 ## 🤝 Contributions
 Suggestions, corrections, and feedback are welcome! Feel free to create an issue or submit a pull request.
