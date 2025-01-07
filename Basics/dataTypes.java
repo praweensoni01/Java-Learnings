@@ -1,6 +1,5 @@
 // DataTypes.java
 public class DataTypes {
-
     public static void main(String[] args) {
         // Primitive data types in java
         byte byteValue = 127;            // Range: -128 to 127
