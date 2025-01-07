@@ -33,6 +33,7 @@ class TwodArray{
         if(Pre == 0){
             System.out.println("Search Element Not Found...!");
         }
+        sc.close();
     }
     public static void main(String args[]){
         // Scanner sc = new Scanner(System.in);

@@ -38,5 +38,6 @@ class function{
 
         // Factorial funtion
         factorial(a);
+        sc.close();
     }
 }

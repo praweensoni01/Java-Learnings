@@ -23,7 +23,7 @@ class Array{
         for(int i=0;i<num.length;i++){
             System.out.print(num[i]+ " , ");
         }
-
+        sc.close();
     } 
     public static void main(String []args){
         // int arr1[] = new int[3];
