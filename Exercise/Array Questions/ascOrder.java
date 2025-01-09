@@ -8,7 +8,7 @@ public class ascOrder {
         System.out.println(" How many number you are gonna enter : ");
         int count = sc.nextInt();
         // int arrSize = sc.nextInt();
-        int num[] = new int[count-1];
+        int num[] = new int[count];
         System.out.println("Enter a Array number one by one : ");
         for(int i = 0; i < count; i++){
             num[i] = sc.nextInt();
